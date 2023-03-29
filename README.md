@@ -8,9 +8,6 @@ It’s a milestone moment for me, and I want to share this opportunity with you.
 
 
 
-![Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46ab-b6dc-fe5c50301357](https://user-images.githubusercontent.com/45847677/220786502-4eb6bcd4-374d-47cd-a22f-1365029d4d23.png)
-
-
 Have you ever heard of Midjourney? It’s an incredible tool that allows you to generate unique, high-quality AI images in just a few clicks. But, for many people, the idea of generating AI images can be intimidating. What should you write? What kind of image should you aim for? It’s natural to have questions, but don’t let that stop you from experiencing the magic of Midjourney.
 
 That’s why I’m sharing my top secrets with you. First, don’t overthink it. Sometimes, the best way to generate a unique AI image is to simply let your creativity flow. Try typing in a few keywords that inspire you, and see what kind of image Midjourney generates. You might be surprised by what comes up.
@@ -23,22 +20,6 @@ Join the [discord server](https://discord.gg/midjourney) and click to one of the
 
 
 
-
-
-
-
-## Who am I
-
-First of all, I’m Ezagor :)
-
-I’m a computer engineer and also full-stack developer. I worked on psychology, marketing and branding. I studied on censydiam, need list and the hook model.
-I’m working on the Web3 ecosystem right now. I have a community who are running nodes in the blockchain. And also we are entering lots of testnets.
-I have +7 years’ experience of the development. I can make app, dApp, web3 site, web site and especially chatbots. And I love using AI for creating assets and art.
-
-* [Telegram](https://t.me/ezagor)
-* [Twitter](https://twitter.com/ezagor_dev)
-* [Medium](https://medium.com/@ezagor)
-* [Mail](mailto:ezagor@icloud.com)
 * Discord : Ezagor#9245
 
 ## Midjourney Showcase
