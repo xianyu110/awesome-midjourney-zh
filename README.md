@@ -3,7 +3,7 @@
 
 这对我来说是一个里程碑式的时刻，我想与你分享这个机会。在这篇文章中，我将揭示使用Midjourney生成AI图像的秘密，以便您可以体验这个创新平台的全部潜力。
 
-Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46ab-b6dc-fe5c50301357
+![image](https://user-images.githubusercontent.com/53889513/228400816-f463ae52-0fb4-4e3c-86c4-652abe0a4078.png)
 
 你听说过中途吗？这是一个令人难以置信的工具，只需单击几下即可生成独特的高质量 AI 图像。但是，对于许多人来说，生成AI图像的想法可能令人生畏。你应该写什么？您应该以什么样的形象为目标？有疑问是很自然的，但不要让这阻止你体验中途的魔力。
 
@@ -18,19 +18,15 @@ Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46
 
 我是一名计算机工程师，也是全栈开发人员。我从事心理学，市场营销和品牌推广工作。我研究了censydiam，需求列表和钩子模型。 我现在正在研究 Web3 生态系统。我有一个在区块链中运行节点的社区。而且我们正在进入大量的测试网。 我有+7年的开发经验。我可以制作应用程序，dApp，web3网站，网站，尤其是聊天机器人。我喜欢使用人工智能来创建资产和艺术。
 
-电报
-唽
-中等
-邮件
 不和谐 ： Ezagor#9245
 中途展示
 一个聪明的老火精灵，头发是火做的，拿着一根魔法杖，搁在原木上。斯科蒂·杨漫画作品。
 /imagine prompt:a wise old fire elf, hair made of fire, with a magical staff, resting on a log. Skottie Young comic artwork.
-图像
+![image](https://user-images.githubusercontent.com/53889513/228400830-ffa71514-aa68-4626-a0ba-22e3b35ea7ca.png)
 
 8 位 ASCII 艺术
 /imagine prompt:8-bit ascii-art
-图像
+![image](https://user-images.githubusercontent.com/53889513/228400842-f914a1cd-acd7-4b05-9fe5-6e0dd5b2d9c7.png)
 
 土著哥特孔雀石
 /imagine prompt:indigenogoth Malachite
@@ -38,19 +34,19 @@ Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46
 
 艺伎孔雀石和黄色，生物发光花丝，美丽，花芯土著哥特
 /imagine prompt:geisha malachite and yellow, bioluminescent filigree, beautiful, bloomcore indigenogoth
-图像
+![image](https://user-images.githubusercontent.com/53889513/228400852-074c1822-e60d-4ed1-a5d9-5a40beaa3e89.png)
 
 由电子元件和PCB电路制成的愤怒的脸
 /imagine prompt:angry face made of electronic components and PCB circuits
-image
+![image](https://user-images.githubusercontent.com/53889513/228400880-29f3efe3-c17d-4a5a-8b8c-d148d76fea02.png)
 
 惊人的形状非常抽象，看起来很酷，色彩缤纷，2D，流行风格，现代，惊人，哦，是的！
 /imagine prompt:amazing shapes very abstract that look cool, colorful , 2D , pop style , modern, amazing, oh yes!
-image
+![image](https://user-images.githubusercontent.com/53889513/228400724-bd9dd094-4b6e-4e2a-afd6-04d1af078bf7.png)
 
 VOGUE 杂志封面，孔雀石朋克灵感来自古斯塔夫·克里姆特 + 让-巴蒂斯特·蒙日的融合
 /imagine prompt:VOGUE magazine cover, MALACHITE-punk inspired by a fusion of Gustave Klimt + Jean-Baptiste Monge
-image
+![image](https://user-images.githubusercontent.com/53889513/228400801-c016dd57-af79-4039-9f16-482bfdb5300f.png)
 
 惊人的彩色彩色玻璃 mozaic 与达斯·维多尔的正面肖像在星球大战主题， 背光， 孔雀石， 32k
 /imagine prompt:amazing colorful stained-glass mozaic with front portrait of darth vaidor in star wars theme, back light, malachite, 32k
