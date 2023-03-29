@@ -24,6 +24,11 @@ Join the [discord server](https://discord.gg/midjourney) and click to one of the
 
 ## Midjourney Showcase
 
+## 模特美女关键词
+Beautiful confident, generous girl, wearing sexy clothes, catwalk walk, real stage lighting, picture full of details, photo texture, atmosphere, large aperture blurred background
+
+![image](https://user-images.githubusercontent.com/53889513/228401595-3f123c8f-45b3-4231-9588-b518ad7a963c.png)
+
 
 * a wise old fire elf, hair made of fire, with a magical staff, resting on a log. Skottie Young comic artwork.
 ```
